@@ -11,12 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca291ee9-fc99-4e30-814c-c3709f51e15a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/445. Add Two Numbers II .cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/445. Add Two Numbers II_2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/934. Shortest Bridge.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/longestCommonSubstring.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="ca291ee9-fc99-4e30-814c-c3709f51e15a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,8 +58,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/set/remove.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+            <state relative-caret-position="342">
+              <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
                 <marker date="1556848405256" expanded="true" signature="287:448" ph="..." />
@@ -76,7 +71,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/leetcode" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -199,7 +194,7 @@
       <workItem from="1565467019662" duration="19000" />
       <workItem from="1567381946464" duration="1537000" />
       <workItem from="1567384233115" duration="136000" />
-      <workItem from="1567384396736" duration="1415000" />
+      <workItem from="1567384396736" duration="1680000" />
     </task>
     <task id="LOCAL-00001" summary="trying markdown">
       <created>1557028288887</created>
@@ -212,7 +207,16 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34684000" />
+    <option name="totallyTimeSpent" value="34949000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-142" y="-1177" width="1920" height="1177" extended-state="6" />
@@ -231,7 +235,7 @@
       <window_info anchor="bottom" id="CMake" order="8" weight="0.28360957" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.3296501" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -441,8 +445,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/set/remove.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        <state relative-caret-position="342">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
             <marker date="1556848405256" expanded="true" signature="287:448" ph="..." />
