@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/saurabh/CLionProjects/Basics/graph/adjList-list.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+unordered_set
+-
+unordered_map
+-
+set
+-
+map
+-
+deque
+-
+queue
+-
+cctype
+-
+string
+-
+fstream
+-
+list
+-
+
